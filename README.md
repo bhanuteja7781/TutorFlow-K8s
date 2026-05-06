@@ -1,4 +1,4 @@
-# 🚀 Tutor Booking DevOps Platform
+# 🚀 Tutor Booking Platform
 
 This repository demonstrates the transformation of a tutor booking application into a cloud-native, scalable system using modern DevOps practices.
 
